@@ -2,6 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+Created the Navbar in React.
+
+  Contact is a button.
+  
+  There are 3 components:
+  
+    Logo
+    Links
+    Button
+    
+   Links component iterated over an array to populate the middle navigation links.
+   
+## Reference Images
+
+![Screenshot (183)](https://user-images.githubusercontent.com/97461783/164309752-dc4e78ed-1cbd-4c2d-a317-172511a8b928.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
