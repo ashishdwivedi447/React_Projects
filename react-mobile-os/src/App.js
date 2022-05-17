@@ -9,13 +9,13 @@ function App() {
       <h1>Mobile Operating System</h1>
       <ul>
         {os.map((e)=>{
-            return <Docs type={e}/>
+            return <li className='square'>{e}</li>
         })}
       </ul>
       <h1>Mobile Manufacturers</h1>
       <ul>
-        {manufacturer.map((f)=>{
-            return <Docs type={f}/>
+        {manufacturer.map((f,i)=>{
+            return <Docs type={f} val={i}/>
         })}
       </ul>
     </div>

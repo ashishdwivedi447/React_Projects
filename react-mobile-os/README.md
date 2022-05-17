@@ -10,7 +10,7 @@ Made the static card in a functional component.
 
 ## Reference Image
 
-![Screenshot (182)](https://user-images.githubusercontent.com/97461783/164308607-d3344b8d-58ab-4f98-b1fb-b601a5691ddb.png)
+
 
 
 ## Available Scripts
