@@ -18,7 +18,8 @@ Created the Navbar in React.
    
 ## Reference Images
 
-![Screenshot (183)](https://user-images.githubusercontent.com/97461783/164309752-dc4e78ed-1cbd-4c2d-a317-172511a8b928.png)
+![Screenshot (387)](https://user-images.githubusercontent.com/97461783/168660469-775ca0e4-90b8-48af-baf9-36fb167ba756.png)
+
 
 
 ## Available Scripts
