@@ -20,9 +20,9 @@ Created the following components:-
     TodoItem.jsx (individual task).
     
 ## Reference Image
-
-![Screenshot (394)](https://user-images.githubusercontent.com/97461783/169224652-bf3ae2d6-bb59-418d-9a10-c8a2cfcc310c.png)
-
+ ######
+![Screenshot (399)](https://user-images.githubusercontent.com/97461783/169246716-ae188db1-ba8d-4e40-a5c2-26ef660affb0.png)
+######
 
 ## Available Scripts
 
