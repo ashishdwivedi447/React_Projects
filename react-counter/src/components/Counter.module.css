@@ -1,0 +1,25 @@
+.buttonTab{
+    width: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+  }
+  button{
+    border: none;
+    color:black;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10%;
+    margin-right: 5px;
+    height: 50px;
+    background-color: #FFFF00;
+  }
+  .green{
+      color: #76FF03;
+  }
+  .red{
+      color: red;
+  }
+ .head{
+      color: white;
+  }
