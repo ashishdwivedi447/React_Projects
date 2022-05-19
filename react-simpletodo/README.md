@@ -1,6 +1,28 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## About
+
+Created a Simple-Todo Application
+
+A user can type in the title
+
+On clicking add (+), it get added a new task in an array of items.
+
+Created the following components:-
+
+    Todo.jsx (contains the input elements, and TodoList ).
+    
+    TodoList. ( accepts the data array as props, contains the TodoItem ).
+    
+    TodoItem.jsx (individual task).
+    
+## Reference Image
+
+![Screenshot (394)](https://user-images.githubusercontent.com/97461783/169224652-bf3ae2d6-bb59-418d-9a10-c8a2cfcc310c.png)
+
 
 ## Available Scripts
 

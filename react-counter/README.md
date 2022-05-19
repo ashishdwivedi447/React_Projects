@@ -2,6 +2,34 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About 
+
+ Created a counter component that took the initial value as a prop, and have an "Increment" and "Decrement" button.
+
+  On clicking the Increment or Decrement button the value should increase or decrease .
+
+Created a button "Double".
+
+  On clicking Double the value of the counter should be multiplied by 2.
+  
+If counter is odd, show counter in red color,
+
+If it's even show in green color.
+
+
+## Reference Images
+   ######                                    
+![Screenshot (395)](https://user-images.githubusercontent.com/97461783/169229714-23266e83-c730-4658-9080-14b0a8bac665.png)
+ ######  
+![Screenshot (396)](https://user-images.githubusercontent.com/97461783/169229747-62dee9e6-688c-46ee-a5d3-5a681431a9d5.png)
+ ######  
+![Screenshot (397)](https://user-images.githubusercontent.com/97461783/169229772-23d5336e-9092-424e-8a6d-2060c05df0a0.png)
+ ######  
+![Screenshot (398)](https://user-images.githubusercontent.com/97461783/169229826-6a8eb268-5394-4665-82e9-cd47252dcdfd.png)
+ ######  
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +96,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Happy Coding!
