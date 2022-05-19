@@ -21,7 +21,8 @@ Created the following components:-
     
 ## Reference Image
  ######
-![Screenshot (399)](https://user-images.githubusercontent.com/97461783/169246716-ae188db1-ba8d-4e40-a5c2-26ef660affb0.png)
+![Screenshot (406)](https://user-images.githubusercontent.com/97461783/169414514-132fbe97-865e-47f2-be7e-eb53e85cc8af.png)
+
 ######
 
 ## Available Scripts
