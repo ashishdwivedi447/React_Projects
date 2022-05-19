@@ -24,7 +24,7 @@ const Todo = () => {
         </div>
         <div style={{display:"flex", justifyContent:"center", marginTop:"15px"}}>
             <input placeholder='Write Something' value={value} onChange={(e)=>{handleChange(e)}}></input>
-            <button onClick={()=>{handleAdd()}}>+</button>  
+            <button disabled={!value} onClick={()=>{handleAdd()}}>+</button>  
         </div>
         
     </>

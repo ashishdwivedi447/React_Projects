@@ -6,7 +6,7 @@ const TodoList = ({todo}) => {
   return (
     <>
       {todo.map((e,index)=>{
-                return <div key={e.id} className={index%3===2? `${styles.purple}`:`${styles.blue}`}>
+                return <div key={e.id} >
                         <TodoItem todo={e} index={index} />
                     </div>
             })}
