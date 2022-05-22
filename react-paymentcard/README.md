@@ -2,6 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## About
+
+Made a card of this manner using React.
+
+Made the component reusable and split into smaller components.
+
+Passed the values like date, logo, heading, subheading, devices, and color as props from parent
+
+## Demo
+
+
+
+https://user-images.githubusercontent.com/97461783/169683819-5ca81352-0aa7-43e2-86a1-7d8c0d3e558b.mp4
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +87,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+####
+Happy Coding !
