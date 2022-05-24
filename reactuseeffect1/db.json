@@ -1,0 +1,54 @@
+{
+  "languages": [
+    {
+      "id": 1,
+      "name": "Kotlin",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "JavaScript",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "React",
+      "status": false
+    },
+    {
+      "id": 4,
+      "name": "C",
+      "status": true
+    },
+    {
+      "name": "Java",
+      "status": false,
+      "id": 5
+    },
+    {
+      "name": "C++",
+      "status": false,
+      "id": 6
+    },
+    {
+      "name": "Node",
+      "status": false,
+      "id": 7
+    },
+    {
+      "name": "Machine Learning",
+      "status": false,
+      "id": 8
+    },
+    {
+      "name": "spring",
+      "status": false,
+      "id": 9
+    },
+    {
+      "name": "C#",
+      "status": false,
+      "id": "78502ddd-46b3-4a6c-b66b-49b69d85a63c"
+    }
+  ]
+}
