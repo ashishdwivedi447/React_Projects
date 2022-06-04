@@ -1,0 +1,44 @@
+
+.mainslider{
+    width: 95%;
+    height: 280px;
+    margin-top: 2%;
+    left: 20px;
+    display: flex;flex-direction: column;
+    padding: 15px;
+    position: relative;
+    /* border: 2px solid black; */
+    align-items: center;
+}
+.mainslider>div{
+    height: 250px;
+}
+.slide {
+    opacity: 0;
+    transition-duration: 1s ease;
+  }
+  
+  .slide.active {
+    opacity: 1;
+    transition-duration: 1s;
+    transform: scale(1.08);
+  }
+img{
+    width: 1300px;
+    height: 280px;
+    margin: auto;
+}
+.leftArrow{
+    position: absolute;
+    top: 45%;
+    left: 12px;
+    z-index: 10;
+    cursor: pointer;
+}
+.rightArrow{
+    position: absolute;
+    top: 45%;
+    right: 32px;
+    z-index: 10;
+    cursor: pointer;
+}

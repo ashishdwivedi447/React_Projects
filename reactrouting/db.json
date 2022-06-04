@@ -3,17 +3,20 @@
         {
            "name" : "SmartPhone",
             "price": 30,
-            "id" : 0
+            "id" : 0,
+            "description":"A smartphone is a handheld electronic device that provides a connection to a cellular network and the internet."
         },
         {
            "name" : "Watch",
             "price" : 20,
-            "id" : 1
+            "id" : 1,
+            "description":"A watch is a portable timepiece intended to be carried or worn by a person. It is designed to keep a consistent movement despite the motions caused by the person's activities."
         },
         {
            "name" : "Shirt",
             "price" : 50,
-            "id" : 2
+            "id" : 2,
+            "description":"A shirt is a piece of clothing that you wear on the upper part of your body. Shirts have a collar, sleeves, and buttons down the front."
         },
         {
            "name" : "Pants",

@@ -1,0 +1,33 @@
+.foot{
+    background-color: rgb(209, 209, 216);
+    height: 150px;display:flex;
+    flex-direction: column;
+
+}
+.headfoot{
+ 
+    display: flex;
+    justify-content:space-between;
+}
+.headfootchild{
+    display:flex;
+    width:400px;
+    margin-left: 5%;
+    justify-content:flex-start;
+}
+.headfootchild>h3{
+    margin-right: 10%;
+}
+/* .main1{
+    border: 1px solid rebeccapurple;
+} */
+.mainfoot{
+    display: flex;
+    justify-content: space-between;
+}
+.main2{
+    
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,131 @@
+{
+    "slider":[
+                {   "id":1,
+                    "img":"https://sslimages.shoppersstop.com/sys-master/root/h8a/hdf/27674023297054/home_carousel-web.jpg"
+                },
+                {"id":2,"img":"https://sslimages.shoppersstop.com/sys-master/root/h5f/hd8/27674019627038/women_carousel-web-------home-page-main-carousel---2022-06--03ghkj.jpg"},
+                {"id":3,"img":"https://sslimages.shoppersstop.com/sys-master/root/h1e/hdc/27674019758110/footwear_carousel-web------home-page-main-carousel---2022-06--03ghkj.jpg"},
+                {"id":4,"img":"https://sslimages.shoppersstop.com/sys-master/root/hdd/hdf/27674019889182/men_carousel-web---------home-page-main-carousel---2022-06--03ghkj.jpg"},
+                {"id":5,"img":"https://sslimages.shoppersstop.com/sys-master/root/hff/hcd/27599340339230/Denim-Fest-Main-Banner-Web.jpg"},
+                {"id":6,"img":"https://sslimages.shoppersstop.com/sys-master/root/h79/h77/27608389943326/web_hp_lip-ntland_main-craousel_20220520.jpg"},
+                {"id":7,"img":"https://sslimages.shoppersstop.com/sys-master/root/hd2/h1d/27674020216862/private-brands_carousel-web-------home-page-main-carousel---2022-06--03ghkj45.jpg"},
+                {"id":8,"img":"https://sslimages.shoppersstop.com/sys-master/root/h4f/hd2/27674019495966/watches_carousel-web----home-page-main-carousel---2022-06--03ghkj.jpg"}
+            ],
+
+    "men":[
+        {
+            "id":1,
+            "title":"Printed Cotton Regular Fit Mens T-Shirt",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h2e/ha7/26835002621982/S22STGRAFT104_BLACK_alt1.jpg_1088Wx1632H",
+            "price":599
+        },
+        {
+            "id":2,
+            "title":"Stripes Cotton Blend Regular Fit Mens T-ShirtNEW",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h7d/ha2/27323530608670/S22STSTRPL104_CORAL_alt2.jpg_1088Wx1632H",
+            "price":999
+        },
+        {
+            "id":3,
+            "title":"Solid Cotton Slim Fit Mens Trousers",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h89/h35/27199539380254/BOLYTEINBEIGE_BEIGE_alt1.jpg_1088Wx1632H",
+            "price":2999
+        },
+        {
+            "id":4,
+            "title":"Solid Cotton Stretch Slim Fit Mens Trousers",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/hb6/h38/26466308718622/SS21MFCH01NV_NAVY_alt1.jpg_1088Wx1632H",
+            "price":949
+        },
+        {
+            "id":5,
+            "title":"Printed Cotton Slim Fit Mens Casual Shirt",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h85/hba/27458550038558/S22SHSOLEBAY1_GREY_alt1.jpg_1088Wx1632H",
+            "price":2999
+        },
+        {
+            "id":6,
+            "title":"Printed Viscose Slim Mens Casual Shirts",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h43/h0d/27298327822366/S22SHGOWER1_GREEN_alt1.jpg_1088Wx1632H",
+            "price":2799
+        }
+
+    ],
+    "women":[
+        {
+            "id":1,
+            "title":"Printed Rayon V-Neck Womens Gather Top",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h88/hb0/26759969275934/A21INTU2113F_TEAL.jpg_1088Wx1632H",
+            "price":399
+        },
+        {
+            "id":2,
+            "title":"Solid Round Neck Regular Womens Tunics & Tops",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h93/hcc/27001370312734/SS22HCKJ127F_PINK.jpg_1088Wx1632H",
+            "price":499
+        },
+        {
+            "id":3,
+            "title":"Solid Sleeveless Polyester Womens Calf Length Jumpsuits",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/he8/h35/26863747989534/S22EP2892BGREEN_GREEN.jpg_1088Wx1632H",
+            "price":944
+        },
+        {
+            "id":4,
+            "title":"Womens Fit And Flare Knowing The World Cut Out Jumpsuit Black",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h2e/hfe/15663244804126/A20DOLAW19D0419_BLACK.jpg_1088Wx1632H",
+            "price":999
+        },
+        {
+            "id":5,
+            "title":"Fit Above Knee Denim Womens Casual Skirt",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/ha6/h0b/27348822327326/S22507SK146_BLACK.jpg_1088Wx1632H",
+            "price":909
+        },
+        {
+            "id":6,
+            "title":"Printed Rayon Round Neck Womens Full Length Nighty",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/ha2/hc3/27468179701790/A21SD2810AV_NAVY.jpg_1088Wx1632H",
+            "price":999
+        }
+
+    ],
+    "kids":[
+        {
+            "id":1,
+            "title":"Printed Lyocell V Neck Girls Top",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h8d/he6/27452285452318/S22CSGDE34557BL_BLUE_alt1.jpg_1088Wx1632H",
+            "price":569
+        },
+        {
+            "id":2,
+            "title":"Embroidered Cotton Round Neck Girls T-Shirt",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/hb6/h11/26781076324382/S22710GTEE124_NAVY.jpg_1088Wx1632H",
+            "price":399
+        },
+        {
+            "id":3,
+            "title":"Solid Cotton Spandex Collar Neck Girls Jacket",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h78/hbd/17478471286814/A21711GDNMJKT07_MID_STONE.jpg_1088Wx1632H",
+            "price":749
+        },
+        {
+            "id":4,
+            "title":"Boys Multicolor Base Yellow Cotton Blend Kurta and Dhoti Pant Set",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h2d/hf9/15831926145054/A20VMYDK005YWYE_YELLOW.jpg_1088Wx1632H",
+            "price":999
+        },
+        {
+            "id":5,
+            "title":"Boys Multicolor Base Blue Silk Blend Kurta and Pyjama Set",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h2a/hcc/15831633723422/A20VMYKP001NBBL_BLUE.jpg_1088Wx1632H",
+            "price":1249
+        },
+        {
+            "id":6,
+            "title":"Round Neck Polyester Straight Girls Lehnga Choli",
+            "image":"https://sslimages.shoppersstop.com/sys-master/images/h78/h26/17444375560222/A21BGKW4312TE_GREEN_alt2.jpg_1088Wx1632H",
+            "price":2599
+        }
+    ]
+}
