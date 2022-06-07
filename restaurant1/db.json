@@ -1,0 +1,386 @@
+{
+    "restaurant":[
+        {
+        "_id": "628a836ecc9ae9d8c42221ee",
+        "id": 1,
+        "name": "Gabspot",
+        "food": [
+        "Tibeten"
+        ],
+        "rating": 1.1,
+        "min": 44,
+        "offer": 38,
+        "image": "https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg?size=626&ext=jpg",
+        "price": 120,
+        "card":true
+
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221ef",
+        "id": 2,
+        "name": "Skajo",
+        "food": [
+        "Tibeten",
+        "Ice Cream",
+        "Snakes"
+        ],
+        "rating": 4.6,
+        "min": 34,
+        "offer": 28,
+        "image": "https://img.freepik.com/free-photo/paneer-butter-masala-cheese-cottage-curry-served-with-rice-laccha-paratha_466689-73715.jpg?size=626&ext=jpg",
+        "price": 491,
+        "card":false
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f0",
+        "id": 3,
+        "name": "Vimbo",
+        "food": [
+        "Snakes",
+        "Tibeten",
+        "Bhutanes"
+        ],
+        "rating": 4.7,
+        "min": 29,
+        "offer": 14,
+        "image": "https://img.freepik.com/free-photo/top-view-circular-food-frame_23-2148723455.jpg?size=626&ext=jpg",
+        "price": 238,
+        "card":false
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f1",
+        "id": 4,
+        "name": "Agimba",
+        "food": [
+        "chinese",
+        "Snakes"
+        ],
+        "rating": 2.4,
+        "min": 34,
+        "offer": 40,
+        "image": "https://img.freepik.com/free-photo/indian-chicken-biryani-served-terracotta-bowl-with-yogurt-white-background-selective-focus_466689-72554.jpg?size=626&ext=jpg",
+        "price": 168,
+        "card":false
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f2",
+        "id": 5,
+        "name": "Abatz",
+        "food": [
+        "Beverages"
+        ],
+        "rating": 3.5,
+        "min": 39,
+        "offer": 11,
+        "image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?size=626&ext=jpg",
+        "price": 454,
+        "card":false
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f3",
+        "id": 6,
+        "name": "Trudeo",
+        "food": [
+        "Bhutanes",
+        "Backery"
+        ],
+        "rating": 1.3,
+        "min": 30,
+        "offer": 38,
+        "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili-top-view_2829-19996.jpg?size=626&ext=jpg",
+        "price": 327,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f4",
+        "id": 7,
+        "name": "Lazzy",
+        "food": [
+        "Bhutanes",
+        "chinese"
+        ],
+        "rating": 2.8,
+        "min": 21,
+        "offer": 13,
+        "image": "https://img.freepik.com/free-photo/veg-biryani-veg-pulav-served-round-brass-bowl-selective-focus_466689-75026.jpg?size=626&ext=jpg",
+        "price": 460,
+        "card":false
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f5",
+        "id": 8,
+        "name": "Twinder",
+        "food": [
+        "Tibeten"
+        ],
+        "rating": 3.8,
+        "min": 28,
+        "offer": 36,
+        "image": "https://img.freepik.com/free-photo/sambar-rice-sambar-sadam-one-pot-meal-from-south-indian-state-tamil-nadu-kerala_466689-75220.jpg?size=626&ext=jpg",
+        "price": 84
+,
+"card":true        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f6",
+        "id": 9,
+        "name": "Roodel",
+        "food": [
+        "Bhutanes",
+        "Ice Cream"
+        ],
+        "rating": 4.3,
+        "min": 39,
+        "offer": 37,
+        "image": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?size=626&ext=jpg",
+        "price": 330,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f7",
+        "id": 10,
+        "name": "Feednation",
+        "food": [
+        "Pizzas",
+        "Snakes",
+        "Backery"
+        ],
+        "rating": 3.5,
+        "min": 30,
+        "offer": 31,
+        "image": "https://img.freepik.com/free-photo/big-tasty-hamburger-with-flying-elements_158023-853.jpg?size=626&ext=jpg",
+        "price": 416,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f8",
+        "id": 11,
+        "name": "Voonix",
+        "food": [
+        "Beverages",
+        "Bhutanes",
+        "Ice Cream"
+        ],
+        "rating": 3,
+        "min": 33,
+        "offer": 16,
+        "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18809.jpg?size=626&ext=jpg",
+        "price": 80
+,
+"card":true        },
+        {
+        "_id": "628a836ecc9ae9d8c42221f9",
+        "id": 12,
+        "name": "Mudo",
+        "food": [
+        "Backery",
+        "Ice Cream"
+        ],
+        "rating": 1.8,
+        "min": 33,
+        "offer": 26,
+        "image": "https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-board-cookware_176474-3215.jpg?size=338&ext=jpg",
+        "price": 164,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221fa",
+        "id": 13,
+        "name": "Divavu",
+        "food": [
+        "Ice Cream",
+        "Tibeten"
+        ],
+        "rating": 4.8,
+        "min": 43,
+        "offer": 30,
+        "image": "https://img.freepik.com/free-photo/food-delicious-photo-crousant_624325-1732.jpg?size=626&ext=jpg",
+        "price": 397,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221fb",
+        "id": 14,
+        "name": "Trudoo",
+        "food": [
+        "Ice Cream",
+        "Beverages"
+        ],
+        "rating": 1.2,
+        "min": 31,
+        "offer": 36,
+        "image": "https://img.freepik.com/free-photo/supermarket-banner-concept-with-ingredients_23-2149421192.jpg?size=626&ext=jpg",
+        "price": 399,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221fc",
+        "id": 15,
+        "name": "Feednation",
+        "food": [
+        "Backery",
+        "Snakes"
+        ],
+        "rating": 1.1,
+        "min": 43,
+        "offer": 30,
+        "image": "https://img.freepik.com/free-photo/delicious-vietnamese-food-including-pho-ga-noodles-spring-rolls-white-wall_181624-34158.jpg?size=626&ext=jpg",
+        "price": 294,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221fd",
+        "id": 16,
+        "name": "Edgeify",
+        "food": [
+        "Snakes",
+        "Pizzas"
+        ],
+        "rating": 3.7,
+        "min": 29,
+        "offer": 13,
+        "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food-top-view-flat-lay_2829-19620.jpg?size=626&ext=jpg",
+        "price": 62,
+        "card":true        
+        },
+        {
+        "_id": "628a836ecc9ae9d8c42221fe",
+        "id": 17,
+        "name": "JumpXS",
+        "food": [
+        "Beverages",
+        "chinese"
+        ],
+        "rating": 1.9,
+        "min": 21,
+        "offer": 33,
+        "image": "https://img.freepik.com/free-photo/world-tapa-s-day-celebration-with-snacks_23-2149368938.jpg?size=626&ext=jpg",
+        "price": 96
+,
+"card":true        },
+        {
+        "_id": "628a836ecc9ae9d8c42221ff",
+        "id": 18,
+        "name": "Buzzdog",
+        "food": [
+        "Ice Cream",
+        "Pizzas"
+        ],
+        "rating": 3.3,
+        "min": 36,
+        "offer": 33,
+        "image": "https://img.freepik.com/free-photo/beautiful-tasty-appetizing-ingredients-spices-red-chilli-pepper-grocery-cooking-healthy-kitchen_1220-1676.jpg?size=626&ext=jpg",
+        "price": 211,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c4222200",
+        "id": 19,
+        "name": "Youopia",
+        "food": [
+        "Snakes",
+        "Ice Cream"
+        ],
+        "rating": 4.4,
+        "min": 36,
+        "offer": 10,
+        "image": "https://img.freepik.com/free-photo/pork-shawarma-black-background-with-herbs-tomatoes-sauce_210632-99.jpg?size=626&ext=jpg",
+        "price": 450,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c4222201",
+        "id": 20,
+        "name": "Leexo",
+        "food": [
+        "Tibeten",
+        "Beverages"
+        ],
+        "rating": 4.3,
+        "min": 32,
+        "offer": 38,
+        "image": "https://img.freepik.com/free-photo/stir-fried-curry-paste-with-bamboo-shoot-minced-pork_1150-35171.jpg?size=626&ext=jpg",
+        "price": 174,
+        "card":false
+        },
+        {
+        "_id": "628a836ecc9ae9d8c4222202",
+        "id": 21,
+        "name": "Skaboo",
+        "food": [
+        "Bhutanes",
+        "Beverages",
+        "Tibeten"
+        ],
+        "rating": 2.6,
+        "min": 31,
+        "offer": 21,
+        "image": "https://img.freepik.com/free-photo/paneer-pulao-is-fragrant-delicious-mildly-spiced-paneer-rice-dish-made-with-freshly-ground-pulao-masala-basmati-rice_466689-75093.jpg?size=626&ext=jpg",
+        "price": 268,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c4222203",
+        "id": 22,
+        "name": "Skajo",
+        "food": [
+        "chinese",
+        "Tibeten",
+        "Ice Cream"
+        ],
+        "rating": 5,
+        "min": 38,
+        "offer": 19,
+        "image": "https://img.freepik.com/free-photo/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food_2829-14400.jpg?size=626&ext=jpg",
+        "price": 447,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c4222204",
+        "id": 23,
+        "name": "Quamba",
+        "food": [
+        "Backery",
+        "Snakes",
+        "Pizzas",
+        "chinese"
+        ],
+        "rating": 4.4,
+        "min": 44,
+        "offer": 17,
+        "image": "https://img.freepik.com/free-photo/front-view-delicious-ham-sandwiches-wooden-board-dark-surface_179666-34425.jpg?size=626&ext=jpg",
+        "price": 377,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c4222205",
+        "id": 24,
+        "name": "Quatz",
+        "food": [
+        "Snakes"
+        ],
+        "rating": 1.7,
+        "min": 22,
+        "offer": 36,
+        "image": "https://img.freepik.com/free-photo/top-view-delicious-food-croquettes_23-2149202625.jpg?size=626&ext=jpg",
+        "price": 434,
+        "card":true
+        },
+        {
+        "_id": "628a836ecc9ae9d8c4222206",
+        "id": 25,
+        "name": "Trupe",
+        "food": [
+        "chinese",
+        "Bhutanes",
+        "Ice Cream",
+        "Backery"
+        ],
+        "rating": 1.8,
+        "min": 43,
+        "offer": 35,
+        "image": "https://img.freepik.com/free-photo/pizza-pepperoni-table_140725-5396.jpg?size=626&ext=jpg",
+        "price": 322,
+        "card":true
+        }
+        ]
+}

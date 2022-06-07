@@ -1,0 +1,44 @@
+
+
+.box{
+  border-radius:5px;
+  background-color:black;
+  width: 400px;
+  height: 70px;
+  margin: 5px 0 5px 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.box h2{
+  margin-right:130px;
+  color: wheat;
+}
+#checkbox {
+  accent-color:green;
+  width: 22px;
+  height: 22px;
+  margin-right: 15px;
+}
+[type="checkbox"]:checked:focus{
+    box-shadow:rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.strike{
+  text-decoration: line-through;
+  color: brown;
+}
+button{
+  border:1px solid red;
+  background-color: yellow;
+  height: 60px;
+  width: 60px;
+  
+  
+}
+#todo{
+  height: 70px;
+  width: 200px;
+}
+#show{
+  width: 200px;
+}
