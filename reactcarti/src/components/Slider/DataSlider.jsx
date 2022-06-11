@@ -28,7 +28,7 @@ const DataSlider = () => {
         <FaArrowCircleLeft className={styles.leftArrow} size="2em" onClick={prevClick}/>
         <div>{data.map((e,index)=>{
                 return(
-                    <div className={(index===current)?`${styles.slide.active}`:`${styles.slide}`} key={index}   >
+                    <div key={index}>
                         {index===current&&(<img src={e.img} alt="slider" />)}
                     </div>
                 )

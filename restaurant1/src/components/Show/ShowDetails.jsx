@@ -6,6 +6,7 @@ import {FaCcMastercard,FaMoneyBillAlt} from "react-icons/fa"
 const ShowDetails = () => {
   const [rest,setRest]=useState([]);
   const [page,setPage]=useState(1)
+  const [filterby,setFilterby]=useState([])
   const [totalCount,setTotalCount]=useState(0)
   useEffect(()=>{
     getData()
@@ -17,6 +18,7 @@ const ShowDetails = () => {
     })
       .then(function (response) {
         setRest(response.data)
+        setFilterby(rest)
         setTotalCount(Number(response.headers["x-total-count"]))
       });
   }
@@ -55,12 +57,15 @@ const ShowDetails = () => {
   const handleCash=(e)=>{
     console.log(e.target.value)
       let y=rest.filter((k)=>k.card===false)
-      setRest(y)
+      setFilterby(y)
+      {filterby.map((e)=>{
+        return (<div></div>)
+      })}
   }
   const handleCard=(e)=>{
     console.log(e.target.value)
       let b=rest.filter((k)=>k.card===true)
-      setRest(b)
+      setFilterby(b)
     
   }
 

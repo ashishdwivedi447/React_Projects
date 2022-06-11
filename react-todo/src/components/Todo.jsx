@@ -37,7 +37,7 @@ export const Todo = () => {
   }
 
   return (
-    <div>
+    <div style={{backgroundColor:"yellow"}}>
        <TodoInput getData={getData} />
       {todoList.map((e) => (
         <TodoItem handleStatus={handleStatus} deleteItem={deleteItem} todo={e} />
