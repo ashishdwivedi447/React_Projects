@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy Milk",
+      "status": false
+    },
+    {
+      "id": "eb4d3b19-274a-41fe-8bd4-583deed7a064",
+      "title": "Buy Bread",
+      "status": false
+    },
+    {
+      "id": "0eafbd38-15c8-4695-a7a0-f0492b25cf9a",
+      "title": "Buy Coffee",
+      "status": false
+    },
+    {
+      "id": "1c34a787-c27b-4264-99ac-fd89e7843100",
+      "title": "Buy Grapes",
+      "status": false
+    },
+    {
+      "id": "da6ec5e9-11d0-4f1f-bf86-9839e85fe9ae",
+      "title": "Buy Toffees",
+      "status": false
+    },
+    {
+      "id": "922909fe-996b-48a5-899f-c9956103b339",
+      "title": "Buy Eggs",
+      "status": false
+    }
+  ]
+}
